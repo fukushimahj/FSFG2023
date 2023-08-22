@@ -1,0 +1,43 @@
+title: FSFG2023
+description: 初代星・初代銀河研究会2023
+author: "Hajime Fukushima"
+
+plugins:
+  - jekyll-sitemap
+  
+google_analytics: G-FK6NERXM6Y
+theme: minima
+
+base_url: /pages
+
+# Minima social links
+#twitter_username: fukushimahaji
+#github_username: fukushimahj
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - frontpage.md
+#  - research.md
+#  - paper.md
+#  - prt.md
+#  - cv.md
+#  - link.md
+#  - _pages/about.md
+#  - _pages/archive.md
+
+include:
+#    - _pages
+
+exclude: 
+#    - .gitignore
+#    - docker-compose.yml
+#    - Gemfile
+#    - Gemfile.lock
+#    - LICENSE
+#    - README.md
