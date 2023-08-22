@@ -22,7 +22,8 @@ minima:
 
 # Minima: custom header links
 header_pages:
-# - frontpage.md
+  - frontpage.md
+  - program.md
 #  - research.md
 #  - paper.md
 #  - prt.md
