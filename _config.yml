@@ -5,7 +5,7 @@ author: "Hajime Fukushima"
 plugins:
   - jekyll-sitemap
   
-google_analytics: G-FK6NERXM6Y
+#google_analytics: G-FK6NERXM6Y
 theme: minima
 
 base_url: /pages
