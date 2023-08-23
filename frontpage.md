@@ -61,7 +61,7 @@ list_title: FSFG2023
 
 <span style="font-size: 150%; color: black;">問い合わせ </span>
 
-福島　肇　(筑波大学) fukushima_at_ccs.tsukuba.ac.jp
+福島　肇 (筑波大学)  fukushima_at_ccs.tsukuba.ac.jp
 <br><br>
 
 <span style="font-size: 150%; color: black;">INFORMATION </span>
