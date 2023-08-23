@@ -18,6 +18,7 @@ list_title: FSFG2023
 <span style="font-size: 120%; color: black;">  北海道大学　札幌キャンパス </span> 
 <br><br>
 
+<span style="font-size: 150%; color: black;">開催趣旨 </span> 
 
 
 メモ: 
