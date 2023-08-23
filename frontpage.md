@@ -2,7 +2,6 @@
 permalink: /
 layout: home
 title: 
-list_title: FSFG2023
 ---
 
 <img src="./assets/imgs/fsfg.png" width="800px">
