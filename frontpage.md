@@ -7,8 +7,6 @@ list_title: FSFG2023
 
 <img src="./assets/imgs/fsfg.png" width="800px">
 
-<br>
-
 <span style="font-size: 150%; color: black;">日程 </span> 
 
 <span style="font-size: 120%; color: black;"> 2023年11月20日(月)-2023年11月22日(水)</span> 
