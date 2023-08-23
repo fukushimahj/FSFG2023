@@ -24,13 +24,7 @@ minima:
 header_pages:
   - frontpage.md
   - program.md
-#  - research.md
-#  - paper.md
-#  - prt.md
-#  - cv.md
-#  - link.md
-#  - _pages/about.md
-#  - _pages/archive.md
+  - registration.md
 
 include:
 #    - _pages
