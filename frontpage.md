@@ -70,9 +70,3 @@ list_title: FSFG2023
 <span style="font-size: 150%; color: black;">謝辞 </span>
 
 
-
-
-
-メモ: 
-
-住所の詳細を記載
