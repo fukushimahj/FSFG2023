@@ -5,8 +5,6 @@ title:
 list_title: FSFG2023
 ---
 
-<meta name="google-site-verification" content="jLmQ48dgPU8nEG_idous6vxotcuyBT2oOIztElS4Jgw" />
-
 <img src="./assets/imgs/fsfg.png" width="800px">
 
 <span style="font-size: 150%; color: black;">日程 </span> 
@@ -16,13 +14,11 @@ list_title: FSFG2023
 
 <span style="font-size: 150%; color: black;">場所 </span> 
 
-<span style="font-size: 120%; color: black;"> 
-北海道大学　札幌キャンパス 
+<span style="font-size: 120%; color: black;"> 北海道大学　札幌キャンパス</span>
 
-クラーク会館　大集会室１((交通アクセス)[https://www.hokudai.ac.jp/bureau/property/clarke/access/])
+<span style="font-size: 120%; color: black;"> クラーク会館　大集会室１([交通アクセス](https://www.hokudai.ac.jp/bureau/property/clarke/access/))</span>
 
-〒060-0809　札幌市北区北9条西9丁目
-</span>
+<span style="font-size: 120%; color: black;"> 〒060-0809　札幌市北区北9条西9丁目</span>
 <br><br>
 
 <span style="font-size: 150%; color: black;">開催趣旨 </span> 
