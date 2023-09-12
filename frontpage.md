@@ -67,7 +67,7 @@ list_title: FSFG2023
 <br><br>
 
 <span style="font-size: 150%; color: black;">INFORMATION </span>
-
+<br><br>
 9.12 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSf23WHCZq365EamPw6Ue3hptvZHcMAMonWf_MvIlOR6NOvvzw/viewform))
 <br><br>
 
