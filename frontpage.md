@@ -70,7 +70,7 @@ list_title: FSFG2023
 <br><br>
 
 
-10.13 参加登録締切は10/27(金), 旅費補助の締切は10/22(日)です。
+10.13 参加登録締切は10/27(金), 旅費補助の締切は10/20(金)です。
 
 09.12 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSf23WHCZq365EamPw6Ue3hptvZHcMAMonWf_MvIlOR6NOvvzw/viewform))
 
