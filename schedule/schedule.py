@@ -55,13 +55,13 @@ for i in range(len(d)):
 
   if(d[i][0] == "lunchi"):
     tstr = get_start_time(time)
-    lists += [tstr+" 昼食<br><br>"]
+    lists += [tstr+" 昼食<br>"]
     time += lunchi_t
     continue
 
   if(d[i][0] == "rest"):
     tstr = get_start_time(time)
-    lists += [tstr+" 休憩<br><br>"]
+    lists += [tstr+" 休憩<br>"]
     time += kyukei_t
     continue
 
@@ -87,9 +87,9 @@ for i in range(len(d)):
 
 
   if invite:
-    lists += [tstr+" I"+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br><br>"]
+    lists += [tstr+" I"+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br>"]
   else:
-    lists += [tstr+" "+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br><br>"]
+    lists += [tstr+" "+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br>"]
 
 filename = "program.md"
 f = open(filename, 'w')
