@@ -41,7 +41,7 @@ lists = []
 days = ["11月20日(月)", "11月21日(火)", "11月22日(水)"]
 
 iday = 0
-lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br>"]
+lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br><br>"]
 
 def get_start_time(time):
   time_h = int((time+start_t) / 60) + start_h
@@ -55,20 +55,20 @@ for i in range(len(d)):
 
   if(d[i][0] == "lunchi"):
     tstr = get_start_time(time)
-    lists += [tstr+" 昼食<br>"]
+    lists += [tstr+" 昼食<br><br>"]
     time += lunchi_t
     continue
 
   if(d[i][0] == "rest"):
     tstr = get_start_time(time)
-    lists += [tstr+" 休憩<br>"]
+    lists += [tstr+" 休憩<br><br>"]
     time += kyukei_t
     continue
 
   if(d[i][0] == "next_day"):
     lists += ["\n"]
     iday  += 1
-    lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br>"]
+    lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br><br>"]
     time = 0
     continue
 
@@ -87,9 +87,9 @@ for i in range(len(d)):
 
 
   if invite:
-    lists += [tstr+" I"+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br>"]
+    lists += [tstr+" I"+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br><br>"]
   else:
-    lists += [tstr+" "+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br>"]
+    lists += [tstr+" "+ d[i][0].replace(' ', '')+ " (" + d[i][1].replace(' ', '')+") "+  d[i][3] +"<br><br>"]
 
 filename = "program.md"
 f = open(filename, 'w')
