@@ -1,60 +1,60 @@
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 0930 I大向一行 (東北大学)  宇宙初期の星形成 <br>
-1015 東翔 (甲南大学)  Amplification and saturation of turbulent magnetic field in collapsing primordial gas clouds <br>
-1035 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
+1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
+1035 石山智明 (千葉大学)  高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発 <br>
 1055 休憩<br>
-1115 木村和貴 (東北大学)  超大質量星形成における原始星構造と星周円盤の共進化 <br>
-1135 石山智明 (千葉大学)  高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発 <br>
-1155 定成健児エリック (東北大学)  初代星形成における円盤分裂に対する乱流磁場の影響 <br>
-1215 昼食<br>
-1345 I播金優一 (東京大学)  JWSTによる遠方銀河観測 (TBD) <br>
-1430 登口暁 (信州大学)  これまでの BluDOGs と JWST による high-z BluDOGs 研究 <br>
-1450 中根美七海 (東京大学)  JWSTによる遠方銀河のLyα輝線観測で探る宇宙再電離 <br>
-1510 休憩<br>
-1530 I矢島秀伸 (筑波大学)  超遠方銀河の形成過程：最新のシミュレーションと観測のレビュー <br>
-1615 杉村和幸 (北海道大学)  初代銀河形成におけるFUV/EUVフィードバックの役割 <br>
-1635 津久井崇史 (AustralianNationalUniversity)  Disk-driven galaxy transformation at z=4: insights from spatially resolved ALMA data <br>
-1655 休憩<br>
-1715 横山将汰 (東京大学)  初代宇宙線が駆動するプラズマ不安定性による銀河間空間の加熱 <br>
-1735 豊内大輔 (大阪大学)  連星質量輸送に伴う輻射駆動円盤風の生成 <br>
-1755 谷川衝 (東京大学)  Gaiaによる不活性コンパクト連星探査とその形成過程の理論研究 <br>
+1115 定成健児エリック (東北大学)  初代星形成における円盤分裂に対する乱流磁場の影響 <br>
+1135 東翔 (甲南大学)  Amplification and saturation of turbulent magnetic field in collapsing primordial gas clouds <br>
+1155 喜友名正樹 (京都大学)  cold accretionと輻射フィードバックによる超大質量星形成 <br>
+1215 木村和貴 (東北大学)  超大質量星形成における原始星構造と星周円盤の共進化 <br>
+1235 昼食<br>
+1405 I郡和範 (北海道大学)  TBD(宇宙論) <br>
+1450 I石垣美歩 (国立天文台)  TBD(銀河考古学) <br>
+1535 倉田昂季 (甲南大学)  恒星風を考慮した星間物質降着による金属汚染により初代星が金属欠乏星になりうるか <br>
+1555 休憩<br>
+1615 播田實 (総研大/国立天文台) 重力崩壊型超新星におけるSc,Ti,Vの合成 <br>
+1635 川下大響 (東京大学)  炭素「予熱」効果が対不安定型超新星に与える影響 <br>
+1655 岡田寛子 (兵庫県立大学)  超金属欠乏星で探る weak r-process の起源 <br>
+1715 休憩<br>
+1735 I岡本崇 (北海道大学)  TBD(銀河形成) <br>
+1820 佐藤恭輔 (法政大学/国立天文台)  すばる望遠鏡/HSC で探るこぐま座矮小楕円体銀河の形成メカニズム <br>
 
 
 <span style="font-size: 150%; color: black;">11月21日(火)</span><br><br>
-0930 I岡本崇 (北海道大学)  TBD(銀河形成) <br>
-1015 佐藤恭輔 (法政大学/国立天文台)  すばる望遠鏡/HSC で探るこぐま座矮小楕円体銀河の形成メカニズム <br>
-1035 休憩<br>
-1055 I但木謙一 (北海学園大学)  アルマ望遠鏡による遠方銀河観測 <br>
-1140 竹内努 (名古屋大学)  High-Dimensional Statistical Analysis of Interstellar and Intergalactic Matter <br>
-1200 昼食<br>
-1330 I稲吉恒平 (北京大学)  The assembly of first massive black holes and prospects of JWST observations <br>
-1415 喜友名正樹 (京都大学)  cold accretionと輻射フィードバックによる超大質量星形成 <br>
-1435 尾形絵梨花 (筑波大学)  遠方宇宙における超大質量ブラックホールの起源：浮遊する種ブラックホールの進化 <br>
-1455 鈴口智也 (京都大学)  輻射フィードバックを考慮した連星種BHの降着成長 <br>
+0930 I播金優一 (東京大学)  JWSTによる遠方銀河観測 (TBD) <br>
+1015 登口暁 (信州大学)  これまでの BluDOGs と JWST による high-z BluDOGs 研究 <br>
+1035 中根美七海 (東京大学)  JWSTによる遠方銀河のLyα輝線観測で探る宇宙再電離 <br>
+1055 休憩<br>
+1115 I但木謙一 (北海学園大学)  アルマ望遠鏡による遠方銀河観測 <br>
+1200 津久井崇史 (AustralianNationalUniversity)  Disk-driven galaxy transformation at z=4: insights from spatially resolved ALMA data <br>
+1220 昼食<br>
+1350 I稲吉恒平 (北京大学)  The assembly of first massive black holes and prospects of JWST observations <br>
+1435 鈴木悠太 (愛媛大学)  Quasar Environment and Feedback at z~2 Probed with Lyα Emitters and Continuum Selected Galaxies <br>
+1455 谷川衝 (東京大学)  Gaiaによる不活性コンパクト連星探査とその形成過程の理論研究 <br>
 1515 休憩<br>
-1535 鈴木悠太 (愛媛大学)  Quasar Environment and Feedback at z~2 Probed with Lyα Emitters and Continuum Selected Galaxies <br>
-1555 桐原崇亘 (筑波大学)  銀河とブラックホールの共進化過程における種ブラックホール質量の影響 <br>
-1615 仲野友将 (筑波大学)  銀河衝突過程における多重AGN発現機構の解明 <br>
-1635 大森清顕クリストファ (名古屋大学)  Mergers and AGNs in the HSC-SSP: Do Mergers Trigger AGN Activity? <br>
-1655 休憩<br>
-1715 I石垣美歩 (国立天文台)  TBD(銀河考古学) <br>
-1800 倉田昂季 (甲南大学)  恒星風を考慮した星間物質降着による金属汚染により初代星が金属欠乏星になりうるか <br>
+1535 尾形絵梨花 (筑波大学)  遠方宇宙における超大質量ブラックホールの起源：浮遊する種ブラックホールの進化 <br>
+1555 鈴口智也 (京都大学)  輻射フィードバックを考慮した連星種BHの降着成長 <br>
+1615 大森清顕クリストファ (名古屋大学)  Mergers and AGNs in the HSC-SSP: Do Mergers Trigger AGN Activity? <br>
+1635 休憩<br>
+1655 桐原崇亘 (筑波大学)  銀河とブラックホールの共進化過程における種ブラックホール質量の影響 <br>
+1715 仲野友将 (筑波大学)  銀河衝突過程における多重AGN発現機構の解明 <br>
+1735 豊内大輔 (大阪大学)  連星質量輸送に伴う輻射駆動円盤風の生成 <br>
+1755 竹内努 (名古屋大学)  High-Dimensional Statistical Analysis of Interstellar and Intergalactic Matter <br>
 
 
 <span style="font-size: 150%; color: black;">11月22日(水)</span><br><br>
-0930 播田實りょう太 (総研大/国立天文台) 重力崩壊型超新星におけるSc <br>
-0950 川下大響 (東京大学)  炭素「予熱」効果が対不安定型超新星に与える影響 <br>
-1010 岡田寛子 (兵庫県立大学)  超金属欠乏星で探る weak r-process の起源 <br>
-1030 休憩<br>
-1050 I郡和範 (北海道大学)  TBD(宇宙論) <br>
-1135 平野信吾 (神奈川大学)  最遠方銀河観測から迫る始原的パワースペクトル <br>
+0930 I矢島秀伸 (筑波大学)  超遠方銀河の形成過程：最新のシミュレーションと観測のレビュー <br>
+1015 杉村和幸 (北海道大学)  初代銀河形成におけるFUV/EUVフィードバックの役割 <br>
+1035 休憩<br>
+1055 平野信吾 (神奈川大学)  最遠方銀河観測から迫る始原的パワースペクトル <br>
+1115 福井康雄 (名古屋大学)  低金属量中間速度水素雲(IVC)とその起源 <br>
+1135 柘植紀節 (東京大学)  大マゼラン雲における銀河間潮汐相互作用による星間ガスの進化と星形成 <br>
 1155 昼食<br>
-1325 福井康雄 (名古屋大学)  低金属量中間速度水素雲(IVC)とその起源 <br>
-1345 柘植紀節 (東京大学)  大マゼラン雲における銀河間潮汐相互作用による星間ガスの進化と星形成 <br>
-1405 山田麟 (名古屋大学)  低金属量銀河WLMのCI観測: 観測の意義と戦略 <br>
-1425 松木場亮喜 (京都大学)  低金属量原始惑星系円盤におけるダストリング形成 <br>
-1445 休憩<br>
-1505 前田龍之介 (東北大学)  星形成フィードバック効果を考慮した高速ガス衝突による星団形成 <br>
-1525 福島肇 (筑波大学)  星団形成における星風の影響 <br>
-1545 辰己賢太 (甲南大学)  分子雲と相互作用する超新星残骸の流体シミュレーション :体積占有率と衝撃波速度の関係 <br>
-1605 梅村雅之 (筑波大学)  おわりに <br>
+1325 山田麟 (名古屋大学)  低金属量銀河WLMのCI観測: 観測の意義と戦略 <br>
+1345 松木場亮喜 (京都大学)  低金属量原始惑星系円盤におけるダストリング形成 <br>
+1405 横山将汰 (東京大学)  初代宇宙線が駆動するプラズマ不安定性による銀河間空間の加熱 <br>
+1425 休憩<br>
+1445 前田龍之介 (東北大学)  星形成フィードバック効果を考慮した高速ガス衝突による星団形成 <br>
+1505 福島肇 (筑波大学)  星団形成における星風の影響 <br>
+1525 辰己賢太 (甲南大学)  分子雲と相互作用する超新星残骸の流体シミュレーション :体積占有率と衝撃波速度の関係 <br>
+1545 梅村雅之 (筑波大学)  おわりに <br>
