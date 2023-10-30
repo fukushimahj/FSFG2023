@@ -77,7 +77,7 @@ d += [[" 仲野友将 "," 筑波大学 "," N "," 銀河衝突過程における�
 d += [[" 大森清顕クリストファ "," 名古屋大学 "," N "," Mergers and AGNs in the HSC-SSP: Do Mergers Trigger AGN Activity? "]]
 d+=[["rest"]]
 d += [[" 石垣美歩 "," 国立天文台 "," I "," TBD(銀河考古学) "]]
-d += [[" 倉田昂季 "," 甲南大学大学院 "," N "," 恒星風を考慮した星間物質降着による金属汚染により初代星が金属欠乏星になりうるか "]]
+d += [[" 倉田昂季 "," 甲南大学 "," N "," 恒星風を考慮した星間物質降着による金属汚染により初代星が金属欠乏星になりうるか "]]
 d+=[["next_day"]]
 
 d += [[" 播田實りょう太 "," 総研大/国立天文台 "," N ","重力崩壊型超新星におけるSc "]]
@@ -112,7 +112,7 @@ lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><
 def get_start_time(time):
   time_h = int((time+start_t) / 60) + start_h
   time_t = time+start_t - 60*(time_h-start_h)
-  return str(time_h).zfill(2)+":"+str(time_t).zfill(2)
+  return str(time_h).zfill(2)+str(time_t).zfill(2)
 
 get_start_time(100)
 
