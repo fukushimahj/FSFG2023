@@ -1,5 +1,4 @@
 <span style="font-size: 150%; color: black;">参加者（敬称略）</span>
-
 <br>
 <br>
 須佐元&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 甲南大<br>
