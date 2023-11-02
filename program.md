@@ -4,6 +4,8 @@ layout: page
 title: プログラム/Program
 ---
 
+招待講演: 35 + 10分 <br>
+一般講演: 15 +  5分 <br><br>
 
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 <span style="font-size: 120%; color: black;"> 
