@@ -51,6 +51,8 @@ list_title: FSFG2023
 - 矢島 秀伸 (筑波大学)　 　: 初代銀河形成
 <br><br>
 
+<span style="font-size: 150%; color: black;">[参加者リスト](https://fukushimahj.github.io/FSFG2023/participants)</span>
+<br><br>
 <span style="font-size: 150%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
 <br><br>
 
@@ -71,6 +73,9 @@ list_title: FSFG2023
 <span style="font-size: 150%; color: black;">INFORMATION </span>
 <br><br>
 
+11.02 [プログラム](https://fukushimahj.github.io/FSFG2023/program)を公開しました。
+
+11.02 [参加者リスト](https://fukushimahj.github.io/FSFG2023/participants)を公開しました。
 
 10.13 参加登録締切は10/27(金), 旅費補助の締切は10/20(金)です。
 

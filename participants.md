@@ -1,4 +1,4 @@
-<span style="font-size: 150%; color: black;">参加者（敬称略）</span>
+<span style="font-size: 150%; color: black;">参加者リスト: 72名 (敬称略）</span>
 <br>
 <br>
 須佐元 (甲南大)<br>                                 

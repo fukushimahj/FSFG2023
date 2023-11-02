@@ -6,6 +6,7 @@ title: プログラム/Program
 
 
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
+<span style="font-size: 120%; color: black;"> 
 0930 I大向一行 (東北大学)  宇宙初期の星形成 <br>
 1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
 1035 石山智明 (千葉大学)  高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発 <br>
@@ -25,9 +26,12 @@ title: プログラム/Program
 1715 休憩<br>
 1735 I岡本崇 (北海道大学)  銀河形成シミュレーション <br>
 1820 佐藤恭輔 (法政大学/国立天文台)  すばる望遠鏡/HSC で探るこぐま座矮小楕円体銀河の形成メカニズム <br>
+<br>
+</span>
 
 
 <span style="font-size: 150%; color: black;">11月21日(火)</span><br><br>
+<span style="font-size: 120%; color: black;"> 
 0930 I播金優一 (東京大学)  JWSTによる遠方銀河観測 (TBD) <br>
 1015 登口暁 (信州大学)  これまでの BluDOGs と JWST による high-z BluDOGs 研究 <br>
 1035 中根美七海 (東京大学)  JWSTによる遠方銀河のLyα輝線観測で探る宇宙再電離 <br>
@@ -47,9 +51,12 @@ title: プログラム/Program
 1715 仲野友将 (筑波大学)  銀河衝突過程における多重AGN発現機構の解明 <br>
 1735 豊内大輔 (大阪大学)  連星質量輸送に伴う輻射駆動円盤風の生成 <br>
 1755 竹内努 (名古屋大学)  High-Dimensional Statistical Analysis of Interstellar and Intergalactic Matter <br>
+<br>
+</span>
 
 
 <span style="font-size: 150%; color: black;">11月22日(水)</span><br><br>
+<span style="font-size: 120%; color: black;"> 
 0930 I矢島秀伸 (筑波大学)  超遠方銀河の形成過程：最新のシミュレーションと観測のレビュー <br>
 1015 平野信吾 (神奈川大学)  最遠方銀河観測から迫る始原的パワースペクトル <br>
 1035 休憩<br>
@@ -65,3 +72,4 @@ title: プログラム/Program
 1505 福島肇 (筑波大学)  星団形成における星風の影響 <br>
 1525 辰己賢太 (甲南大学)  分子雲と相互作用する超新星残骸の流体シミュレーション :体積占有率と衝撃波速度の関係 <br>
 1545 梅村雅之 (筑波大学)  おわりに <br>
+</span>
