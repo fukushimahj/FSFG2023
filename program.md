@@ -1,4 +1,3 @@
-
 ---
 permalink: /program
 layout: page
