@@ -6,7 +6,7 @@ list_title: FSFG2023
 ---
 
 <p align="center">
-<img src="./assets/imgs/fsfg.png" width="900px">
+<img src="./assets/imgs/fsfg.png" width="950px">
 </p>
 
 <span style="font-size: 150%; color: black;">日程 </span> 
