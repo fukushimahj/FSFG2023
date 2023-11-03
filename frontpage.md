@@ -71,14 +71,13 @@ list_title: FSFG2023
 <br><br>
 
 <span style="font-size: 150%; color: black;">INFORMATION </span>
-<br><br>
+<br>
 
 11.02 [プログラム](https://fukushimahj.github.io/FSFG2023/program)と[参加者リスト](https://fukushimahj.github.io/FSFG2023/participants)を公開しました。
 
 10.13 参加登録締切は10/27(金), 旅費補助の締切は10/20(金)です。
 
 09.12 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSf23WHCZq365EamPw6Ue3hptvZHcMAMonWf_MvIlOR6NOvvzw/viewform))
-
 <br><br>
 
 <span style="font-size: 150%; color: black;">謝辞 </span>
