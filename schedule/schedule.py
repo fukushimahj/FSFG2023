@@ -65,6 +65,7 @@ d += [[" 中根美七海 "," 東京大学 "," N "," JWSTによる遠方銀河の
 d+=[["rest"]]
 d += [[" 但木謙一 "," 北海学園大学 "," I "," アルマ望遠鏡による遠方銀河観測 "]]
 d += [[" 津久井崇史 "," Australian National University "," N "," Disk-driven galaxy transformation at z=4: insights from spatially resolved ALMA data "]]
+d += [[" 梅田滉也 "," 東京大学 ", "N", " 銀河のLyα減衰翼吸収から探るz=7−12の中性割合と電離泡半径の進化 "]]
 d+=[["lunchi"]]
 d += [[" 稲吉恒平 "," 北京大学 "," I "," The assembly of first massive black holes and prospects of JWST observations "]]
 d += [[" 鈴木悠太 "," 愛媛大学 "," N "," Quasar Environment and Feedback at z~2 Probed with Lyα Emitters and Continuum Selected Galaxies "]]
@@ -100,37 +101,43 @@ d += [[" 梅村雅之 "," 筑波大学 "," N "," おわりに "]]
 
 
 
-lists = []
+lists = ["---\npermalink: /program\nlayout: page\ntitle: プログラム/Program\n---\n\n招待講演: 35 + 10分 <br>\n一般講演: 15 +  5分 <br><br>\n"]
+
+
 days = ["11月20日(月)", "11月21日(火)", "11月22日(水)"]
 
 iday = 0
 lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br><br>"]
 
-def get_start_time(time):
-  time_h = int((time+start_t) / 60) + start_h
-  time_t = time+start_t - 60*(time_h-start_h)
+def get_start_time(time, i):
+  if i == 1:
+    time_h = int((time) / 60) + start_h
+    time_t = time - 60*(time_h-start_h)
+  else:
+    time_h = int((time+start_t) / 60) + start_h
+    time_t = time+start_t - 60*(time_h-start_h)
+
   return str(time_h).zfill(2)+str(time_t).zfill(2)
 
-get_start_time(100)
 
 time = 0
 ii   = 0
 for i in range(len(d)):
 
   if(d[i][0] == "lunchi"):
-    tstr = get_start_time(time)
+    tstr = get_start_time(time, iday)
     lists += [tstr+" 昼食<br>"]
     time += lunchi_t
     continue
 
   if(d[i][0] == "rest"):
-    tstr = get_start_time(time)
+    tstr = get_start_time(time, iday)
     lists += [tstr+" 休憩<br>"]
     time += kyukei_t
     continue
 
   if(d[i][0] == "next_day"):
-    lists += ["\n"]
+    lists += ["<br>\n\n"]
     iday  += 1
     lists += ["<span style=\"font-size: 150%; color: black;\">"+days[iday]+"</span><br><br>"]
     time = 0
@@ -142,7 +149,7 @@ for i in range(len(d)):
   else:
     invite = False
 
-  tstr = get_start_time(time)
+  tstr = get_start_time(time, iday)
 
   if invite:
     time += invited_t
