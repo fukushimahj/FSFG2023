@@ -4,6 +4,8 @@ layout: page
 title: プログラム/Program
 ---
 
+[PDF版](https://fukushimahj.github.io/FSFG2023/pdfs/program.pdf)
+
 招待講演: 35 + 10分 <br>
 一般講演: 15 +  5分 <br><br>
 
@@ -71,4 +73,3 @@ title: プログラム/Program
 1525 辰己賢太 (甲南大学)  分子雲と相互作用する超新星残骸の流体シミュレーション :体積占有率と衝撃波速度の関係 <br>
 1545 梅村雅之 (筑波大学)  おわりに <br>
 
-[PDF版](https://fukushimahj.github.io/FSFG2023/pdfs/program.pdf)
