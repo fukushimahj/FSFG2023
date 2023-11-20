@@ -15,7 +15,7 @@ title: プログラム/Program
 1035 石山智明 (千葉大学)  [高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発](https://fukushimahj.github.io/FSFG2023/pdfs/Ishiyama.pdf) <br>
 1055 休憩<br>
 1115 東翔 (甲南大学)  [Amplification and saturation of turbulent magnetic field in collapsing primordial gas clouds](https://fukushimahj.github.io/FSFG2023/pdfs/Higashi.pdf) <br>
-1135 定成健児エリック (東北大学)  初代星形成における円盤分裂に対する乱流磁場の影響 <br>
+1135 定成健児エリック (東北大学)  [初代星形成における円盤分裂に対する乱流磁場の影響](https://fukushimahj.github.io/FSFG2023/pdfs/Sadanari.pdf) <br>
 1155 喜友名正樹 (京都大学)  cold accretionと輻射フィードバックによる超大質量星形成 <br>
 1215 木村和貴 (東北大学)  [超大質量星形成における原始星構造と星周円盤の共進化](https://fukushimahj.github.io/FSFG2023/pdfs/Kimura.pdf) <br>
 1235 昼食<br>
