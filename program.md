@@ -7,6 +7,8 @@ title: プログラム/Program
 招待講演: 35 + 10分 <br>
 一般講演: 15 +  5分 <br><br>
 
+[PDF版](https://fukushimahj.github.io/FSFG2023/pdfs/program.pdf)
+
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 0930 I大向一行 (東北大学)  宇宙初期の星形成 <br>
 1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
