@@ -7,8 +7,6 @@ title: プログラム/Program
 招待講演: 35 + 10分 <br>
 一般講演: 15 +  5分 <br><br>
 
-[PDF版](https://fukushimahj.github.io/FSFG2023/pdfs/program.pdf)
-
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 0930 I大向一行 (東北大学)  宇宙初期の星形成 <br>
 1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
@@ -72,3 +70,5 @@ title: プログラム/Program
 1505 福島肇 (筑波大学)  星団形成における星風の影響 <br>
 1525 辰己賢太 (甲南大学)  分子雲と相互作用する超新星残骸の流体シミュレーション :体積占有率と衝撃波速度の関係 <br>
 1545 梅村雅之 (筑波大学)  おわりに <br>
+
+[PDF版](https://fukushimahj.github.io/FSFG2023/pdfs/program.pdf)
