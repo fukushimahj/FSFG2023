@@ -10,7 +10,7 @@ title: プログラム/Program
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 0930 I大向一行 (東北大学)  宇宙初期の星形成 <br>
 1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
-1035 石山智明 (千葉大学)  高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発 <br>
+1035 石山智明 (千葉大学)  [高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発](https://fukushimahj.github.io/FSFG2023/pdfs/Ishiyama.pdf) <br>
 1055 休憩<br>
 1115 東翔 (甲南大学)  Amplification and saturation of turbulent magnetic field in collapsing primordial gas clouds <br>
 1135 定成健児エリック (東北大学)  初代星形成における円盤分裂に対する乱流磁場の影響 <br>
