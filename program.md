@@ -38,7 +38,7 @@ title: プログラム/Program
 1005 中根美七海 (東京大学)  JWSTによる遠方銀河のLyα輝線観測で探る宇宙再電離 <br>
 1025 休憩<br>
 1045 I但木謙一 (北海学園大学)  [アルマ望遠鏡による遠方銀河観測](https://fukushimahj.github.io/FSFG2023/pdfs/Tadaki.pdf) <br>
-1130 津久井崇史 (AustralianNationalUniversity)  Disk-driven galaxy transformation at z=4: insights from spatially resolved ALMA data <br>
+1130 津久井崇史 (AustralianNationalUniversity)  [Disk-driven galaxy transformation at z=4: insights from spatially resolved ALMA data](https://fukushimahj.github.io/FSFG2023/pdfs/Tsukui.pdf)<br>
 1150 梅田滉也 (東京大学)  銀河のLyα減衰翼吸収から探るz=7−12の中性割合と電離泡半径の進化 <br>
 1210 昼食<br>
 1340 I稲吉恒平 (北京大学)  The assembly of first massive black holes and prospects of JWST observations <br>
