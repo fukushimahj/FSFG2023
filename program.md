@@ -34,7 +34,7 @@ title: プログラム/Program
 
 <span style="font-size: 150%; color: black;">11月21日(火)</span><br><br>
 0900 I播金優一 (東京大学)  [JWSTで探る遠方銀河形成: 初年度観測レビュー](https://fukushimahj.github.io/FSFG2023/pdfs/Harikane.pdf) <br>
-0945 登口暁 (信州大学)  これまでの BluDOGs と JWST による high-z BluDOGs 研究 <br>
+0945 登口暁 (信州大学)  [これまでの BluDOGs と JWST による high-z BluDOGs 研究](https://fukushimahj.github.io/FSFG2023/pdfs/Noboriguchi.pdf) <br>
 1005 中根美七海 (東京大学)  JWSTによる遠方銀河のLyα輝線観測で探る宇宙再電離 <br>
 1025 休憩<br>
 1045 I但木謙一 (北海学園大学)  [アルマ望遠鏡による遠方銀河観測](https://fukushimahj.github.io/FSFG2023/pdfs/Tadaki.pdf) <br>
