@@ -57,7 +57,7 @@ title: プログラム/Program
 
 
 <span style="font-size: 150%; color: black;">11月22日(水)</span><br><br>
-0930 I矢島秀伸 (筑波大学)  超遠方銀河の形成過程：最新のシミュレーションと観測のレビュー <br>
+0930 I矢島秀伸 (筑波大学)  [超遠方銀河の形成過程：最新のシミュレーションと観測のレビュー](https://fukushimahj.github.io/FSFG2023/pdfs/Yajima.pdf) <br>
 1015 平野信吾 (神奈川大学)  [最遠方銀河観測から迫る始原的パワースペクトル](https://fukushimahj.github.io/FSFG2023/pdfs/Hirano.pdf) <br>
 1035 休憩<br>
 1055 福井康雄 (名古屋大学)  低金属量中間速度水素雲(IVC)とその起源 <br>
