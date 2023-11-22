@@ -11,7 +11,7 @@ title: プログラム/Program
 
 <span style="font-size: 150%; color: black;">11月20日(月)</span><br><br>
 0930 I大向一行 (東北大学) [宇宙初期の星形成](https://fukushimahj.github.io/FSFG2023/pdfs/Omukai.pdf) <br>
-1015 伊藤茉那 (東北大学)  z>100の極初期宇宙における初代星の形成 <br>
+1015 伊藤茉那 (東北大学)  [z>100の極初期宇宙における初代星の形成](https://fukushimahj.github.io/FSFG2023/pdfs/Ito.pdf) <br>
 1035 石山智明 (千葉大学)  [高解像度宇宙論的シミュレーションに基づいた準解析的初代星形成モデルの開発](https://fukushimahj.github.io/FSFG2023/pdfs/Ishiyama.pdf) <br>
 1055 休憩<br>
 1115 東翔 (甲南大学)  [Amplification and saturation of turbulent magnetic field in collapsing primordial gas clouds](https://fukushimahj.github.io/FSFG2023/pdfs/Higashi.pdf) <br>
@@ -24,10 +24,10 @@ title: プログラム/Program
 1535 倉田昂季 (甲南大学)  恒星風を考慮した星間物質降着による金属汚染により初代星が金属欠乏星になりうるか <br>
 1555 休憩<br>
 1615 播田實りょう太 (総研大/国立天文台) 重力崩壊型超新星におけるSc,Ti,Vの合成 <br>
-1635 川下大響 (東京大学)  炭素「予熱」効果が対不安定型超新星に与える影響 <br>
+1635 川下大響 (東京大学)  [炭素「予熱」効果が対不安定型超新星に与える影響](https://fukushimahj.github.io/FSFG2023/pdfs/Kawashimo.pdf) <br>
 1655 岡田寛子 (兵庫県立大学)  [超金属欠乏星で探る weak r-process の起源](https://fukushimahj.github.io/FSFG2023/pdfs/Okada.pdf) <br>
 1715 休憩<br>
-1735 I岡本崇 (北海道大学)  銀河形成シミュレーション <br>
+1735 I岡本崇 (北海道大学)  [銀河形成シミュレーション](https://fukushimahj.github.io/FSFG2023/pdfs/Okamoto.pdf) <br>
 1820 佐藤恭輔 (法政大学/国立天文台)  すばる望遠鏡/HSC で探るこぐま座矮小楕円体銀河の形成メカニズム <br>
 <br>
 
