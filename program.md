@@ -43,7 +43,7 @@ title: プログラム/Program
 1210 昼食<br>
 1340 I稲吉恒平 (北京大学)  [The assembly of first massive black holes and prospects of JWST observations](https://fukushimahj.github.io/FSFG2023/pdfs/Inayoshi.pdf) <br>
 1425 鈴木悠太 (愛媛大学)  [Quasar Environment and Feedback at z~2 Probed with Lyα Emitters and Continuum Selected Galaxies](https://fukushimahj.github.io/FSFG2023/pdfs/Suzuki.pdf) <br>
-1445 谷川衝 (東京大学)  Gaiaによる不活性コンパクト連星探査とその形成過程の理論研究 <br>
+1445 谷川衝 (東京大学)  [Gaiaによる不活性コンパクト連星探査とその形成過程の理論研究](https://fukushimahj.github.io/FSFG2023/pdfs/Tanikawa.pdf) <br>
 1505 休憩<br>
 1525 尾形絵梨花 (筑波大学)  [遠方宇宙における超大質量ブラックホールの起源：浮遊する種ブラックホールの進化](https://fukushimahj.github.io/FSFG2023/pdfs/Ogata.pdf) <br>
 1545 鈴口智也 (京都大学)  [輻射フィードバックを考慮した連星種BHの降着成長](https://fukushimahj.github.io/FSFG2023/pdfs/Suzuguchi.pdf), [[ppt版](https://fukushimahj.github.io/FSFG2023/pdfs/Suzuguchi.pptx)] <br>
