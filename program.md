@@ -47,7 +47,7 @@ title: プログラム/Program
 1505 休憩<br>
 1525 尾形絵梨花 (筑波大学)  [遠方宇宙における超大質量ブラックホールの起源：浮遊する種ブラックホールの進化](https://fukushimahj.github.io/FSFG2023/pdfs/Ogata.pdf) <br>
 1545 鈴口智也 (京都大学)  [輻射フィードバックを考慮した連星種BHの降着成長](https://fukushimahj.github.io/FSFG2023/pdfs/Suzuguchi.pdf), [[ppt版](https://fukushimahj.github.io/FSFG2023/pdfs/Suzuguchi.pptx)] <br>
-1605 大森清顕クリストファ (名古屋大学)  Mergers and AGNs in the HSC-SSP: Do Mergers Trigger AGN Activity? <br>
+1605 大森清顕クリストファ (名古屋大学)  [Mergers and AGNs in the HSC-SSP: Do Mergers Trigger AGN Activity?](https://fukushimahj.github.io/FSFG2023/pdfs/Omori.pdf) <br>
 1625 休憩<br>
 1645 桐原崇亘 (筑波大学)  [銀河とブラックホールの共進化過程における種ブラックホール質量の影響](https://fukushimahj.github.io/FSFG2023/pdfs/Kirihara.pdf) <br>
 1705 仲野友将 (筑波大学)  [銀河衝突過程における多重AGN発現機構の解明](https://fukushimahj.github.io/FSFG2023/pdfs/Nakano.pdf) <br>
