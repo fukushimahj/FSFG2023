@@ -58,6 +58,8 @@ list_title: FSFG2023
 
 <span style="font-size: 150%; color: black;">[参加者リスト](https://fukushimahj.github.io/FSFG2023/participants)</span>
 <br><br>
+<span style="font-size: 150%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2023/picture)</span>
+<br><br>
 <span style="font-size: 150%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
 <br><br>
 
