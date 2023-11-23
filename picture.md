@@ -8,9 +8,9 @@
 
 - 講演の様子
 <p align="center">
-<img src="./pictures/picture2.jpg" width="950px">
+<img src="./pictures/picture2.jpeg" width="950px">
 </p>
 <p align="center">
-<img src="./pictures/picture3.jpg" width="950px">
+<img src="./pictures/picture3.jpeg" width="950px">
 </p>
  
