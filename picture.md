@@ -6,7 +6,9 @@
 <img src="./pictures/picture1.jpg" width="950px">
 </p>
 
-- 講演の様子
+<br>
+
+- 講演中の様子
 <p align="center">
 <img src="./pictures/picture2.jpeg" width="950px">
 </p>
