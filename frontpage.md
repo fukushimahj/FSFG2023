@@ -21,6 +21,11 @@ list_title: FSFG2023
 <span style="font-size: 120%; color: black;"> 〒060-0809　札幌市北区北9条西9丁目</span>
 <br><br>
 
+<p align="center">
+<img src="./pictures/picture1.jpg" width="950px">
+</p>
+
+
 <span style="font-size: 150%; color: black;">開催趣旨 </span> 
 
 本研究会は、宇宙初期の天体形成・進化に関連した研究の現状を総括し、今後の課題について議論を交わすことによる研究のさらなる発展を目的に、毎年開催しているものです。
