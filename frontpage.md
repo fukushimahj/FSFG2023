@@ -80,6 +80,10 @@ list_title: FSFG2023
 <span style="font-size: 150%; color: black;">INFORMATION </span>
 <br>
 
+11.23 [研究会の様子(写真)](https://fukushimahj.github.io/FSFG2023/picture)を公開しました。
+
+11.22 皆様、ご参加いただきありがとうございました。来年度は信州大学での開催を予定しています。
+
 11.02 [プログラム](https://fukushimahj.github.io/FSFG2023/program)と[参加者リスト](https://fukushimahj.github.io/FSFG2023/participants)を公開しました。
 
 10.13 参加登録締切は10/27(金), 旅費補助の締切は10/20(金)です。
