@@ -225,6 +225,6 @@ Muramatsu osamu* (COSMO PLANETARIUM SHIBUYA)
 
 柿元拓実* (総合研究大学院大学)
 
-* :オンライン参加
+\* :オンライン参加
 
 
